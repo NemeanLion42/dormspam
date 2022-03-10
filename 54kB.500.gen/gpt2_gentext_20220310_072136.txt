@@ -1,0 +1,68 @@
+Where: Building E51, in the Manhattan (in the Bush Room)
+
+When: Saturday, March 11th from 8:00-9:00 PM
+
+Where: Bush Room (the mini-condo is on the first floor of the stud)
+
+Who: Everyone (i.e. students, parents, engineers, researchers, artists, programmers, engineers, researchers, artists, crafts, and post docs)
+
+Why: Learn how to use analytics for good. Learn predictive and prescriptive analytic methods. Win prizes (like iPads, Apple Watches, & more!). Eat (free!) food. Have fun.
+
+
+The purpose of the Analytics for a Better World Hackathon is to inspire students in how analytics can contribute to the welfare of society. A better world can be created by addressing problem areas highlighted in the Sustainable Development Goals of the United Nations.
+
+Our first Analytics Hackathon will be based on UN Goal 3 (Good Health and Wellbeing) with specifically a focus on Diabetes. For this Hackathon, you and your team will tackle the challenge to predict the risk of a person developing Type II Diabetes1 in the next years. During the Hackathon, you will work with de-identified medical claims data, including the medical history of patients as well as other features. You will have the opportunity to tackle this challenge via many interesting angles, such as time-series analysis, linear and discrete optimization, linear and logistic regression, optimal classification and regression trees, deep learning and random forests, etc2. You will experience the entire pipeline from data processing to model building and testing.
+
+Data sets and food will be provided!
+
+Do you want to know more?  REGISTER HERE and bring your passion and enthusiasm to make a better world!
+
+Saturday, April 2nd, from 8am to 8pm at MIT Sloan, building E51.
+
+Questions?: email ugeducation@sloan.mit.edu.
+
+1Diabetes is a chronic illness characterized by elevated levels of blood glucose that can contribute to serious health issues for patients. According to the CDC, 37.3 million people in the United States receive diabetes care each year. In the long term, 37.3 million people in the United States will experience diabetes. In the long term, diabetes can significantly damage the heart, blood vessels as well as other organs, leading to for example a two- to three-fold increased risk of heart attack. However, diabetes is also a preventable disease with the help of improved diet and regular exercise. If doctors are able to detect diabetes early on, patients can effectively change their lifestyle to prevent the onset of diabetes.
+
+2 Don’t know what some or all of these words mean? Don't worry. As part of the Hackathon, you and your team will tackle this challenge by confronting the challenge to predict the risk of a person developing Type II Diabetes1 in the next years. During the Hackathon, you and your team will tackle this challenge by confronting the challenge to predict the risk of a person developing Type II Diabetes1 in the next years. During the Hackathon, you and your team will tackle this challenge by confronting the challenge to predict the risk of a person developing Type II Diabetes1 in the next years.
+
+What: Inaugural Analytics for a Better World Hackathon
+
+When: Saturday, April 2nd from 8 am to 8 pm @ MIT Sloan
+
+Where: Building E51, building (3-133)
+
+Who: All MIT undergraduates invited (working in teams of two or three)
+
+Why: Learn how to use analytics for good. Learn predictive and prescriptive analytic methods. Win prizes (like iPads, Apple Watches, & more!). Eat (free!) food. Have fun.
+
+
+As a relatively new team of more than 1,600 people, we’re looking to hire you to help us build a better world! The first 15 people who complete the first 15 interviews will receive $15 of GrubHub credit (attendance will be checked, and credit will be sent out after all the talks!). See y'all there!!
+
+The first 15 people who complete the first 15 interviews will receive $15 of GrubHub credit (attendance will be checked, and credit will be sent out after all the talks!). See y'all there!!
+
+Meet the people we hire:
+
+Alex Anthony Levandowski, a.k.a. MIT x Fellows
+Ioana Teodorescu, a.k.a. Sustainability Director
+Katie Zhao
+Melissa Huang
+
+MIT Figure Skating Club
+
+Katie Zhao
+
+MIT Figure Skating Club
+
+MIT Figure Skating Club
+
+Mentor #1
+
+MIT Figure Skating Club
+
+MIT Figure Skating Club
+
+MIT Figure Skating Club
+
+MIT Figure Skating Club
+
+MIT
